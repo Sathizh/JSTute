@@ -5,6 +5,23 @@
 
 ====================================================================*/
 
+let perfume = 200
+let heading = "total Value of perfume is"
+const taxx = 20
+let taxType = "tax value is"
+ 
+let last_name = "reddy";
+console.log(last_name)
+
+console.log(taxType);
+
+console.log(perfume*10/100);
+
+console.log(heading);
+
+console.log(perfume + 20);
+
+
 let productName = "Perfume"
 let Price       = 200;
 let TaxP        = 10;
