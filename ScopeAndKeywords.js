@@ -14,6 +14,9 @@
     // var -> Function Scope
     // let and const -> Block Scope
 
+    
+ // var 
+
  test1 = "test1"
 {
     var test2 = "test2"
