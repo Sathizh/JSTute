@@ -5,21 +5,21 @@
 
 ====================================================================*/
 
-let perfume = 200
-let heading = "total Value of perfume is"
-const taxx = 20
-let taxType = "tax value is"
+// let perfume = 200
+// let heading = "total Value of perfume is"
+// const taxx = 20
+// let taxType = "tax value is"
  
-let last_name = "reddy";
-console.log(last_name)
+// let last_name = "reddy";
+// console.log(last_name)
 
-console.log(taxType);
+// console.log(taxType);
 
-console.log(perfume*10/100);
+// console.log(perfume*10/100);
 
-console.log(heading);
+// console.log(heading);
 
-console.log(perfume + 20);
+// console.log(perfume + 20);
 
 
 let productName = "Perfume"
