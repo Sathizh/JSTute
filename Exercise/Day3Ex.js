@@ -1,6 +1,6 @@
 /* ============================================================================================
 
-    Day3 : 
+    Day 3 : 
             Exercise 1: String to Number
                 Convert the string variables to numbers and perform addition
 
