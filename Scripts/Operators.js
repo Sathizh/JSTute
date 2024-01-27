@@ -25,7 +25,7 @@
     // let sum       = a + b; // 30
     // let strConCat = str1 + str2 // HelloWorld
     
-    // let diff = a - b
+    // let diff = a - b // 10
     // let strDiff   = str1 - str2 // NaN
     
     // let product = a * b // 200
@@ -35,7 +35,8 @@
     // Anything divided by zero is INFINITE / ERROR
     
     // let pow = 5 ** 3 // 5 power 3 => 5 * 5 * 5 => 125 
-    
+    // let p   =  Math.pow(5, 3) // 125
+
     // console.log(pow, p); // 125 125
     
     // let d = Math.round(3.1)  // below 5 
