@@ -43,5 +43,10 @@
                     console.log("Is it either sunny or warm?", isSunny || isWarm);
                     console.log("Is it not sunny?", !isSunny);
 
+            Exercise 7: String comparison
+
+            let str1 = "apple", str2 = "elppa"
+            console.log("Result =", str1 >= str2);
+
 
 ===============================================================================================*/
